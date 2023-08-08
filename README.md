@@ -1,5 +1,5 @@
 # Rocket League AI Bot (Work in Progress)
-- This is my AI agent that plays the popular game Rocket League using the rlgym library. It is trained using reinforcement learning. 
+This is my AI agent that plays the popular game Rocket League using the rlgym library. It is trained using reinforcement learning. 
 
 # How to Run
 - Must have both rocket leage (either steam or epic games version) as well as bakkes mod installed.
