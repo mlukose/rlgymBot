@@ -157,7 +157,7 @@ env = SB3SingleInstanceEnv(gym_env)
 #Initialize PPO from stable_baselines3
 
 # Training and Predicting loop
-filepath = "C:/Users/micst/Desktop/Genetic Learning Personal Project/model_13.pt"
+filepath = "your_path/model.pt"
 if sys.argv[1] == "training":
   if exists(path=filepath):
       learning_rate = 0.00001
